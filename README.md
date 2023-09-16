@@ -1,5 +1,6 @@
 # grid-Card
-Trabajo Platzi, Curso de FrontEnd CSS y HTML
-Se puede visualizar siguiendo el sgte enlace: [Tarjeta Personal hecha con Grid en html y css](https://jorozcocardenas.github.io/grid-Card/card.html)
+Trabajo Platzi, Curso de FrontEnd CSS y HTML, se realiza una tarjeta personal hecha en Html y Css,
+usando alunas propiedades de grid.
+Visualizar aqui: [Tarjeta Personal](https://jorozcocardenas.github.io/grid-Card/card.html)
 
 <img src="./img/tarjeta.png" Alt="Tarjeta hecha con Grid">
